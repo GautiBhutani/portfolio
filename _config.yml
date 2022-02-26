@@ -1,12 +1,19 @@
-title: Gautam Bhutani
+title: <p align="center"> Gautam Bhutani </p>
 logo: /assets/img/logo.png
+
 description:
-  <p align="center">|
-  <a href="https://github.com/GautiBhutani">GitHub</a>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/sajankedia">GitHub</a>
+  
   <br>   
-  I'm working on Data Science, Spark, Machine learning & NLP related problems.
-  Experience working with vast data sets to break down information, 
-  gather relevant points and solve advanced business problems.
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with IBM Research at Big Data Analytics team.
+  Working in AdTech domain for 3 years.
   <br>
   </p>
+
+
+
 theme: jekyll-theme-minimal
