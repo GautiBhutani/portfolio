@@ -8,7 +8,6 @@ Face mask detection was a tool that was developed in early 2020 after the incept
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GautiBhutani/Face-Mask-Detector)
 
-<center><img src="https://github.com/GautiBhutani/portfolio/tree/master/assets/img/Machine-Learning-in-Fraud-Detection.jpg"/></center>
 
 ---
 
