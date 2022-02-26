@@ -1,4 +1,13 @@
 title: Gautam Bhutani
 logo: /assets/img/logo.png
-description: Well-qualified Data Scientist experienced working with vast data sets to break down information, gather relevant points and solve advanced business problems.
+description:
+  <p align="center">|
+  <a href="https://github.com/GautiBhutani">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Spark, Machine learning & NLP related problems.
+  Experience working with vast data sets to break down information, 
+  gather relevant points and solve advanced business problems.
+  <br>
+  </p>
 theme: jekyll-theme-minimal
